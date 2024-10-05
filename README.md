@@ -71,6 +71,8 @@ Developed by: Register Number*/
       (The path of cshrc could vary depending on the installation destination)
       
 	After this you can see the window like below 
+![Screenshot 2024-10-04 125600](https://github.com/user-attachments/assets/ef88c6af-825a-4a77-9bbe-b71aebf88f90)
+
 
 ### Fig 3:Invoke the Cadence Environment
 
@@ -89,6 +91,7 @@ or
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
+![Screenshot 2024-10-04 130614](https://github.com/user-attachments/assets/a4461f60-6e66-4c0e-a07b-0198092744b3)
 
 ### Fig 5:cds.lib file Creation
 
@@ -111,6 +114,7 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+![Screenshot 2024-10-04 125845](https://github.com/user-attachments/assets/1ab61925-852f-4409-86ec-f8343a17fd94)
 
 ### Fig 7: Nclaunch Window
 
@@ -165,10 +169,12 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
+![Screenshot 2024-10-04 130432](https://github.com/user-attachments/assets/2a2cceda-56c9-4654-adde-8f22f8c0412a)
 
 ### Fig 10: Design Browser window for simulation
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![Screenshot 2024-10-04 130350](https://github.com/user-attachments/assets/da13c374-e48e-4f8b-8751-1cbc98091e4c)
 
 ### Fig 12: Simulation Waveform Window
 
