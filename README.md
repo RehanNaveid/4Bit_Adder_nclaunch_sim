@@ -85,6 +85,7 @@ or
 •	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
+![Screenshot 2024-10-05 090038](https://github.com/user-attachments/assets/71f25dce-7ea0-4825-a543-6afca1d2c7a6)
 
 ### Fig 4:Setting Multi-step simulation
 
@@ -114,7 +115,7 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
-![Screenshot 2024-10-04 125845](https://github.com/user-attachments/assets/1ab61925-852f-4409-86ec-f8343a17fd94)
+![Screenshot 2024-10-05 090447](https://github.com/user-attachments/assets/af12220a-8641-48c4-8c6d-3a7d2707ea48)
 
 ### Fig 7: Nclaunch Window
 
@@ -134,6 +135,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+![Screenshot 2024-10-05 090746](https://github.com/user-attachments/assets/848c042e-9554-4031-925a-46d6ead607ad)
 
 ### Fig 8: Compiled database in worklib
 
@@ -157,6 +159,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 5.	It also establishes net connectivity and prepares all of this for simulation
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
+![Screenshot 2024-10-05 090849](https://github.com/user-attachments/assets/efa3f816-9441-4d39-b8e6-085b1afd5239)
 
 ### Fig 9: Elaboration Launch Option
 
