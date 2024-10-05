@@ -136,8 +136,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
-![Screenshot 2024-10-05 095105](https://github.com/user-attachments/assets/9d87b96a-b295-4b34-ad45-c5c7b185bb15)
 
+![Screenshot 2024-10-05 095413](https://github.com/user-attachments/assets/48ca0fd0-6259-44e0-9333-a2c637986169)
 
 ### Fig 8: Compiled database in worklib
 
@@ -162,7 +162,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
 
-![Screenshot 2024-10-05 095413](https://github.com/user-attachments/assets/9fd7c149-3937-4fa4-be92-b2b108245281)
+
+![Screenshot 2024-10-05 095436](https://github.com/user-attachments/assets/6297feb2-495d-405d-a533-8129773b3ff4)
 
 ### Fig 9: Elaboration Launch Option
 
